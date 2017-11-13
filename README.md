@@ -1,6 +1,6 @@
 # Pagani_Hypertension_2017
 
-Generates computational results presented in Pagani et al., Hypertension, 2017.
+R code to generate computational results presented in Pagani et al., Hypertension, 2017.
 
 Three analyses are performed:
 1) fitting of exponential and hyper-expoenential demographic model parameters
